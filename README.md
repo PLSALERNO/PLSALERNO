@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **PLSALERNO/PLSALERNO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My name is Phaedra Salerno, and I am a senior at Williams College, majoring in physics.
+My name is Phaedra Salerno (she/her), and I am a senior at Williams College, majoring in physics. Currently, I am working on my theoretical condensed matter physics senior thesis in the research group of Professor Betül Pamuk. Previously, I have conducted molecular spectroscopy research under Professor Ben Augenbraun at Williams, and I have participated in summer REUs at the University of Mississippi (under Professor Gregory Tschumper) and the University of Minnesota (under Professor Sapna Sarupria).
